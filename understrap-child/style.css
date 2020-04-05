@@ -1,0 +1,17 @@
+/*
+ Theme Name: Understrap child
+ Theme URL: http://hostinger-tutorials.ru/understrap-master-child/
+ Description: Understrap child theme
+ Author: Marat M
+ Author URL: mmavliev.com
+ Template: understrap-master
+ Version: 1.1
+ Text Domain: understrap-master
+ */
+
+.price {
+    background-color: #5533ff;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px;
+}
